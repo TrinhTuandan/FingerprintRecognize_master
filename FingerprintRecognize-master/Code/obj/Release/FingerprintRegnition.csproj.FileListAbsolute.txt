@@ -1,0 +1,13 @@
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\bin\Release\FingerprintRegnition.exe
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.csproj.AssemblyReference.cache
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.About.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.AlgorithmTest.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareInfo.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareOption.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.CompareWithCollection.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.FingerCompare.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.ImageProcessSetting.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.RegionSelectPadding.resources
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.csproj.GenerateResource.cache
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.csproj.CoreCompileInputs.cache
+D:\Downloads\FingerprintRecognize-master\FingerprintRecognize-master\Code\obj\Release\FingerprintRegnition.exe
